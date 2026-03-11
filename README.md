@@ -63,7 +63,16 @@ pystray      (optional — for system tray)
 
 ---
 
+## להורדה והתקנה מהירה /  Quick download and installation
+
+👇🏻👇🏻
+https://github.com/moshepinhasi/Red_alert_monitor/releases/download/red_alert_monitor/RedAlertMonitor.exe
+👆🏻👆🏻
+
+
+
 ## Installation
+
 
 ```bash
 # 1. Clone the repository
